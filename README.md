@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @BitsBob
 - 👀 I’m interested in web development (front and back end).
-- 🌱 I’m currently learning JavaScript at a basic level and HTML and CSS at an intermediate level.
+- 🌱 I’m currently learning JavaScript at a basic level and HTML and CSS at an intermediate level and also working out git!
+- 🚀 I'll start commiting more soon, once I get everything up and running!
